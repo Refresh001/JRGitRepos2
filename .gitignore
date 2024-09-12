@@ -1,2 +1,1 @@
-$ cat .gitignore
-File03
+File03*
